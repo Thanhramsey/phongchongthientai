@@ -1,0 +1,62 @@
+[
+  {
+    "ten_ttvt": "TTVT1",
+    "ten_tokt": "QN1",
+    "ten_diaban": "ABCD",
+    "transaction": {
+      "kh_nam": "768.84",
+      "kh_lk": "146505",
+      "dt_lk": "142268"
+    }
+  },
+  {
+    "ten_ttvt": "TTVT1",
+    "ten_tokt": "QN1",
+    "ten_diaban": "ABCDE",
+    "transaction": {
+      "kh_nam": "777.84",
+      "kh_lk": "14905",
+      "dt_lk": "148868"
+    }
+  },
+  {
+    "ten_ttvt": "TTVT1",
+    "ten_tokt": "QN2",
+    "ten_diaban": "HHH",
+    "transaction": {
+      "kh_nam": "704",
+      "kh_lk": "167505",
+      "dt_lk": "142778"
+    }
+  },
+  {
+    "ten_ttvt": "TTVT2",
+    "ten_tokt": "PM",
+    "ten_diaban": "PM1",
+    "transaction": {
+      "kh_nam": "888",
+      "kh_lk": "146878",
+      "dt_lk": "143358"
+    }
+  },
+  {
+    "ten_ttvt": "TTVT2",
+    "ten_tokt": "PC",
+    "ten_diaban": "PC1",
+    "transaction": {
+      "kh_nam": "99593625",
+      "kh_lk": "216505",
+      "dt_lk": "178268"
+    }
+  },
+  {
+    "ten_ttvt": "TTVT2",
+    "ten_tokt": "PM",
+    "ten_diaban": "PM2",
+    "transaction": {
+      "kh_nam": "885",
+      "kh_lk": "145605",
+      "dt_lk": "153368"
+    }
+  }
+]
